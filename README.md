@@ -1,4 +1,4 @@
-# Ignited-Team References
+# Water Management Idea
 
 ## Idea
 ### Cards Game(Dispatch) + City Leakage: 
@@ -16,13 +16,14 @@
 ![Dispatch Reference](https://tse2.mm.bing.net/th/id/OIP.FYzJPtsAiZY8o1UF0wwQzwHaEK?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 
-## Sessions
-- [] Sunday, 22/02/2026
-- [] Tuesday, 24/02/2026
-- [] Sunday, 01/03/2026
-- [] Tuesday, 03/03/2026
-- [] Sunday, 08/03/2026
+## Session Tracker
 
-## Banner & Flyer
-#### Banner: 85x200 or 80x200
-#### Flyer:  
+### February 2026
+- [x] Tue — 17/02/2026 — 5:00 PM
+- [ ] Sun — 22/02/2026 — 10:00 PM
+- [ ] Tue — 24/02/2026 — 10:00 PM
+
+### March 2026
+- [ ] Sun — 01/03/2026 — 10:00 PM
+- [ ] Tue — 03/03/2026 — 10:00 PM
+- [ ] Sun — 08/03/2026 — 10:00 PM
