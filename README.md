@@ -32,7 +32,7 @@
 
 - [x] **Sunday — 01/03/2026 — 10:00 PM**  
 
-- [ ] **Tuesday — 03/03/2026 — 10:00 PM**  
+- [x] **Tuesday — 03/03/2026 — 10:00 PM**  
 
 - [ ] **Sunday — 08/03/2026 — 10:00 PM**  
 
@@ -44,7 +44,7 @@
   **Friday — 27/02/2026 - 11:59 pm**  
   Digital designs for the flyer and banner. Finalized financials, strategy, competitive & market analysis.
 
-- [ ] **Flyer and Banner Design Completion**  
+- [x] **Flyer and Banner Design Completion**  
   **Sunday — 01/03/2026**  
 Digital designs for the flyer and banner.
 
