@@ -48,7 +48,7 @@
   **Sunday — 01/03/2026**  
 Digital designs for the flyer and banner.
 
-- [ ] **Project Presentation**  
+- [x] **Project Presentation**  
   **Tuesday — 03/03/2026**  
 A complete presentation clearly explaining the idea, soltion, and value proposition.
 
